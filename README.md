@@ -16,7 +16,7 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=flat&color=blue&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=NadaSobhy612&style=flat&color=blue&label=PROFILE+VIEWS)
 
 </div>
 
@@ -43,8 +43,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=NadaSobhy612&show_icons=true&theme=tokyonight" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadaSobhy612&layout=compact&theme=tokyonight" width="48%">
 
 </div>
 
@@ -52,7 +52,7 @@
 
 ### 🌐 Connect with me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](YOUR-LINKEDIN)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nada-mohammed-400a6536b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/NadaSobhy612)  
+
 
